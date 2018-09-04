@@ -1,5 +1,5 @@
 # Tell
-An iOS mobile app for translating text messages. The application has been optimized for portraint view on iPhones 6 and up.
+An iOS mobile app for translating text messages. The application has been optimized for portrait view on iPhones 6 and up.
 
 # Features
 * **Firebase** to store data, backup and authenticate users
