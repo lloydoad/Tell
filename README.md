@@ -9,7 +9,7 @@ An iOS mobile app for translating text messages. The application has been optimi
 * **SVProgressHUD** and **Dynamic blur view** for miscellaneous animations and views
 
 # Preparing to run
-* 'pod install' and 'pod update' need to be run from the main folder to install the required thirf-party dependencies
+* 'pod install' and 'pod update' need to be run from the main folder to install the required third-party dependencies
 * A custom google plist is required to configure firebase in the App Delegate
 * The actual code required for the App Delegate is already in the file
 * Other settings like bundle identifiers also need to be changed
